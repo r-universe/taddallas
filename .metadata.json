@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "metacom",
+    "oncran": true
+  }
+]
